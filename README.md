@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README para GitHub, explicando el propósito, instalación y funcionamiento del código:
-
----
-
 # Buscador de Coordenadas DMS
 
 Este proyecto es una aplicación de escritorio creada con Python y Tkinter para buscar coordenadas geográficas en formato **DMS** (grados, minutos, segundos) o **decimal**. Utiliza la API de OpenCage para obtener las coordenadas de una ubicación especificada, como país, estado/provincia, ciudad y dirección. Además, el programa permite ver un mapa interactivo con la ubicación seleccionada.
